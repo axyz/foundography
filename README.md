@@ -1,6 +1,5 @@
-# Foundation libsass template
-
-This is a template to start your own project that uses Grunt and libsass!
+# foundography
+Code for the video course "Building a Responsive Site with Zurb Foundation" by Packt Publishing
 
 ## Requirements
 
@@ -13,13 +12,17 @@ You'll need to have the following items installed before continuing.
 ## Quickstart
 
 ```bash
-git clone git@github.com:zurb/foundation-libsass-template.git
+git clone git@github.com:axyz/foundography.git
 npm install && bower install
 ```
 
 While you're working on your project, run:
 
 `grunt`
+
+or
+
+`grunt watch`
 
 And you're set!
 
